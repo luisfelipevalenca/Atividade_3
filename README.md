@@ -10,7 +10,7 @@ Uma API RESTful simples e segura para gerenciamento de tarefas, construída com 
 - Login com autenticação básica (Basic Auth) para geração de token
 - Proteção de rotas com token JWT
 - Status de tarefas: `pendente` ou `concluída`
-- dentificação única para cada tarefa (`id` gerado com `secrets`)
+- Identificação única para cada tarefa (`id` gerado com `secrets`)
 
 ---
 
